@@ -13,5 +13,10 @@ namespace DVCS_Exercise
         {
 
         }
+
+        protected void Link_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

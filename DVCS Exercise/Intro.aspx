@@ -4,4 +4,6 @@
 
     <asp:Label ID="Label1" runat="server" AssociatedControlID="FirstInput">First label</asp:Label>
     <asp:TextBox ID="FirstInput" runat="server" Text="FirstInput"></asp:TextBox>
+
+    <asp:LinkButton ID="Link" runat="server" OnClick="Link_Click">About</asp:LinkButton>
 </asp:Content>
